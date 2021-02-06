@@ -15,6 +15,7 @@ ctrl + K ctrl + S를 눌러 단축키 설정에 들어간다.
 ------------
 
 mkdir demo1_jpp                 // 생성 demo1_jpp 프로젝트
+
 cd demo1_jpp                    // demo1_jpp 프로젝트로 이동
 terminal 창에서     npm init    // 생성 package.json
 npm install -g electron         // install electron
