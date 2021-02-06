@@ -32,7 +32,11 @@ npm install -g electron         // install electron
 
 terminal 창에서 electron . 로 실행
 
-github의 demo를 추가 => cd .. 
+----------------
+
+github의 demo를 clone 방법:
+
+=> cd .. 
 
 => git clone https://github.com/electron/electron-quick-start
 
@@ -41,6 +45,7 @@ github의 demo를 추가 => cd ..
 =>  npm init
 
 -------------
+
 npm install electron-packager -g     // packager 설치
 
 => electron-packager ./ demo1 --win --out ./ --arch=x64 --app-version=0.0.1 --electron-version=11.2.3
