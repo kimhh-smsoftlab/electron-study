@@ -1,4 +1,4 @@
-# demo1 정리
+# demo1 실습 정리
  
 // visual studio code 개발 환경구축 및 demo
 
